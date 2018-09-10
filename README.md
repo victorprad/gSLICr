@@ -10,7 +10,7 @@ This is the software bundle "gSLICr", a library for real-time superpixel segment
 
 For more information about gSLICr please visit the project website <http://www.robots.ox.ac.uk/~victor/gslicr>. 
 
-Other related projects can be found in the Oxford Active Vision Library <http://www.oxvisionlib.org>.
+Other related projects can be found on the AVLCode website <http://www.avlcode.org>.
 
 # 1. Updates from gSLIC
 - Works for any size / number of super pixels
